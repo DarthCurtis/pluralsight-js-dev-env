@@ -6,7 +6,7 @@
   "author": "Curtis Robinson (Darth Curtis)",
   "license": "MIT",
   "dependencies": {
-    "whatwg-fetch": "^3.0.0"
+    "whatwg-fetch": "^3.6.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
